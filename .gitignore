@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /target
 /lib
 /classes
@@ -8,3 +9,10 @@ pom.xml
 .lein-deps-sum
 .lein-failures
 .lein-plugins
+=======
+pom.xml
+*jar
+/lib/
+/classes/
+.lein-deps-sum
+>>>>>>> 428f496dbc69a4d61ca4b6c9a10742fb3a1e7067

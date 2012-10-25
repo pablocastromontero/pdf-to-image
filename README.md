@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # pdf-to-image
 
 A Clojure library designed to convert a PDF file into a series of images 
@@ -32,3 +33,9 @@ and pass it as a second parameter to the function call.
 Copyright © 2012 Pablo Castro Montero
 
 Distributed under the Eclipse Public License, the same as Clojure.
+=======
+pdf-to-image
+============
+
+A simple clojure library that uses Apache's pdfbox to convert a PDF file into a series of images
+>>>>>>> 428f496dbc69a4d61ca4b6c9a10742fb3a1e7067
