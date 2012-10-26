@@ -70,7 +70,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="70" selection-start="897" selection-end="897" vertical-scroll-proportion="0.5165289">
+            <state line="26" column="0" selection-start="898" selection-end="898" vertical-scroll-proportion="0.5371901">
               <folding />
             </state>
           </provider>
@@ -188,6 +188,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="options.lastSelected" value="de.janthomae.leiningenplugin.settings.LeiningenSettings" />
+    <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
@@ -423,7 +424,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="70" selection-start="897" selection-end="897" vertical-scroll-proportion="0.5165289">
+        <state line="26" column="0" selection-start="898" selection-end="898" vertical-scroll-proportion="0.5371901">
           <folding />
         </state>
       </provider>

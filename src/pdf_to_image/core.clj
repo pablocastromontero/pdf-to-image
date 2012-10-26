@@ -16,7 +16,7 @@
           (if (nil? (:prefix args)) "image_" (:prefix args)))
         true
         )
-      (catch Exception e (false))
+      (catch Exception e false)
       )
     )
   )
